@@ -1,4 +1,5 @@
 # Real-Amazon-Sales-Data-Analysis
+# insight
 1-average of cancelled order state wise
 Andhra predesh and lakshdweep are at the top 
 2-fullfilment-
